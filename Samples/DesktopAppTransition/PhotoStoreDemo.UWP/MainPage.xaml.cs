@@ -26,5 +26,55 @@ namespace PhotoStoreDemo.UWP
         {
             this.InitializeComponent();
         }
+
+        private void AddPhoto(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void PhotoListSelection(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void Rotate(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BlackAndWhite(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Crop(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Undo(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void OnMouseDown(object sender, TappedRoutedEventArgs e)
+        {
+
+        }
+
+        private void AddToShoppingCart(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void RemoveShoppingCartItem(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Upload(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
