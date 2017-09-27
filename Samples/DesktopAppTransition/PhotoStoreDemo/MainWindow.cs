@@ -333,6 +333,7 @@ namespace PhotoStoreDemo
             if (result == false) return;
             ImageFile item = new ImageFile(ofd.FileName);
             item.AddToCache();
+            Photos.Add(item);
         }
 
         private int RunProcess(string appName, string arguments)
